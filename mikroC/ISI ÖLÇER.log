@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo48 -N"C:\Users\Emre\Desktop\Yeni klasör\mikroC\ISI ÖLÇER\mikroC\ISI ÖLÇER.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Emre\Desktop\Yeni klasör\mikroC\ISI ÖLÇER\mikroC\" -SP"C:\Users\EMRE\Desktop\ISI ÖLÇER\mikroC\" "ISI ÖLÇER.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\EMRE\Desktop\ISI ÖLÇER\mikroC'	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ISI ÖLÇER.c
+diagnostics: 62	123	Compiled Successfully	ISI ÖLÇER.c
+diagnostics: 0	127	All files Compiled in 281 ms	 
+hint: 0	1144	Used RAM (bytes): 34 (2%)  Free RAM (bytes): 1993 (98%)	Used RAM (bytes): 34 (2%)  Free RAM (bytes): 1993 (98%)
+hint: 0	1144	Used ROM (bytes): 2153 (7%)  Free ROM (bytes): 30615 (93%)	Used ROM (bytes): 2153 (7%)  Free ROM (bytes): 30615 (93%)
+diagnostics: 0	125	Project Linked Successfully	ISI ÖLÇER.mcppi
+diagnostics: 0	128	Linked in 312 ms	 
+diagnostics: 0	129	Project 'ISI ÖLÇER.mcppi' completed: 999 ms	 
+diagnostics: 0	103	Finished successfully: 05 Mar 2016, 21:24:20	ISI ÖLÇER.mcppi
